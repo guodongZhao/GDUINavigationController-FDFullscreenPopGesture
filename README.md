@@ -1,0 +1,2 @@
+# GDUINavigationController-FDFullscreenPopGesture
+导航控制器手势返回修正
