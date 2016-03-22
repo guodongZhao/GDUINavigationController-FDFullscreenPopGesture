@@ -4,7 +4,7 @@
 # 导航控制器手势返回修正
 
 ## Method 
- ###无需导入头文件，直接将.h .m文件拖入项目目录 即可使用
+    无需导入头文件，直接将.h .m文件拖入项目目录 即可使用
  
 ![示例图](https://raw.githubusercontent.com/forkingdog/FDFullscreenPopGesture/master/Snapshots/snapshot0.gif)
 
