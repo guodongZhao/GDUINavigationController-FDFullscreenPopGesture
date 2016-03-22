@@ -12,8 +12,9 @@ https://raw.githubusercontent.com/forkingdog/FDFullscreenPopGesture/master/Snaps
 AOP, just add 2 files and no need for any setups, all navigation controllers will be able to use fullscreen pop gesture automatically.
 
 To disable this pop gesture of a navigation controller:
-
+、、、objc
 navigationController.fd_fullscreenPopGestureRecognizer.enabled = NO;
+、、、
 To disable this pop gesture of a view controller:
 
 viewController.fd_interactivePopDisabled = YES;
